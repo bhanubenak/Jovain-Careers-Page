@@ -64,6 +64,9 @@ h1 {
   padding-right: 8px;
   font-size: 1.25rem;
 }
+#description p{
+  margin-top: 0;
+}
 
 #team {
   width: 50%;
